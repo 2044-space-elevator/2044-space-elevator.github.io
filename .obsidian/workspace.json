@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "88d1917655465a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d6ef07375a61dbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ebbad9aef2ca00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法笔记/最短路总结.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "251dbbeb93fbc886",
+    "type": "split",
+    "children": [
+      {
+        "id": "f95a83c9847b1cb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6296dfee972d7dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28e54e55af2ae9ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#图论",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d68ff838e53a0683",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.50324249267578
+  },
+  "right": {
+    "id": "7bdb6f5626f5a2ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b537bbc239ce143b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfb7f0eaefbf50eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "算法笔记/最短路总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91aac04ac68fb1b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "算法笔记/最短路总结.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "072da68409df926a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccc9bb6608f35bfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "算法笔记/最短路总结.md"
+              }
+            }
+          },
+          {
+            "id": "67ab4d6fed97c81e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "e2ebbad9aef2ca00",
+  "lastOpenFiles": [
+    "OI 野生错误汇总.md",
+    "算法笔记/最短路总结.md",
+    "游记+生活随记/分层图最短路学习笔记.md",
+    "恶搞文章+其他/2044 OI 代码规范.md",
+    "恶搞文章+其他/关于我.md",
+    "题解/AT_abc328_c 题解.md",
+    "恶搞文章+其他/【数学整活】用微积分计算奶茶杯体积.md",
+    "题解/UVA11892 题解.md",
+    "题解/CF1881D Divide and Equalize 题解.md",
+    "题解/CF1881C Perfect Square 题解.md",
+    "恶搞文章+其他/暑假总结.md",
+    "游记+生活随记/CSP-J 2023 游记.md",
+    "题解/55. 跳跃游戏题解.md",
+    "题解/ABC105D 题解.md",
+    "游记+生活随记/2023年暑假培训机构集训营游记.md",
+    "Calculus.md",
+    "算法笔记/RSA 加密算法.md",
+    "题解/SP31221 题解.md",
+    "题解/P7191 题解.md",
+    "恶搞文章+其他/P1001 题解.md",
+    "题解/Leetcode 1162 地图分析题解.md",
+    "题解/CF1862C 题解.md",
+    "题解/CF1593D1 题解.md",
+    "题解/AT_abc057_d 题解.md",
+    "算法笔记/2020 CSP-J 初赛试卷讲解笔记.md",
+    "算法笔记/(2023年8月暑假集训营 Day 4 笔记) 动态规划入门.md",
+    "2489FFE6.png",
+    "Pasted image 20230924182352.png",
+    "00B16A65.png",
+    "Excalidraw",
+    "Recording 20230815151658.webm",
+    "Untitled.canvas",
+    "0021B332.png",
+    "00219EC0.png",
+    "005476FC.png",
+    "0045EFA0.png",
+    "(2023年8月暑假集训营笔记)程序设计基础知识",
+    "游记+生活随记",
+    "ClassIn_20230812111021.jpeg",
+    "算法笔记",
+    "题解",
+    "恶搞文章+其他"
+  ]
+}
