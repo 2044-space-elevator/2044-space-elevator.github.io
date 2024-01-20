@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/最短路总结.md",
-                "mode": "preview",
-                "source": true
+                "file": "OI 野生错误汇总.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/最短路总结.md",
+                "file": "OI 野生错误汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/最短路总结.md",
+                "file": "OI 野生错误汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法笔记/最短路总结.md"
+                "file": "OI 野生错误汇总.md"
               }
             }
           },
@@ -168,8 +167,9 @@
   },
   "active": "e2ebbad9aef2ca00",
   "lastOpenFiles": [
-    "OI 野生错误汇总.md",
+    "浩强 C++ 考试试卷系列第一集.md",
     "算法笔记/最短路总结.md",
+    "OI 野生错误汇总.md",
     "游记+生活随记/分层图最短路学习笔记.md",
     "恶搞文章+其他/2044 OI 代码规范.md",
     "恶搞文章+其他/关于我.md",
@@ -193,7 +193,6 @@
     "题解/CF1593D1 题解.md",
     "题解/AT_abc057_d 题解.md",
     "算法笔记/2020 CSP-J 初赛试卷讲解笔记.md",
-    "算法笔记/(2023年8月暑假集训营 Day 4 笔记) 动态规划入门.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
