@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "恶搞文章+其他/OI 野生错误汇总.md",
+                "file": "恶搞文章+其他/2044 OI 代码规范.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "恶搞文章+其他/OI 野生错误汇总.md",
+                "file": "恶搞文章+其他/2044 OI 代码规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "恶搞文章+其他/OI 野生错误汇总.md",
+                "file": "恶搞文章+其他/2044 OI 代码规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "恶搞文章+其他/OI 野生错误汇总.md"
+                "file": "恶搞文章+其他/2044 OI 代码规范.md"
               }
             }
           },
@@ -165,11 +165,13 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e6296dfee972d7dc",
+  "active": "e2ebbad9aef2ca00",
   "lastOpenFiles": [
+    "恶搞文章+其他/P1001 题解.md",
+    "恶搞文章+其他/OI 野生错误汇总.md",
+    "区间.md",
     "浩强 C++ 考试试卷系列第一集.md",
     "算法笔记/最短路总结.md",
-    "恶搞文章+其他/OI 野生错误汇总.md",
     "游记+生活随记/分层图最短路学习笔记.md",
     "恶搞文章+其他/2044 OI 代码规范.md",
     "恶搞文章+其他/关于我.md",
@@ -187,12 +189,10 @@
     "算法笔记/RSA 加密算法.md",
     "题解/SP31221 题解.md",
     "题解/P7191 题解.md",
-    "恶搞文章+其他/P1001 题解.md",
     "题解/Leetcode 1162 地图分析题解.md",
     "题解/CF1862C 题解.md",
     "题解/CF1593D1 题解.md",
     "题解/AT_abc057_d 题解.md",
-    "算法笔记/2020 CSP-J 初赛试卷讲解笔记.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
