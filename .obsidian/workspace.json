@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d6ef07375a61dbf",
+        "id": "549e4f59bf818191",
         "type": "tabs",
         "children": [
           {
-            "id": "e2ebbad9aef2ca00",
+            "id": "d7d96b7bdbf67b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "恶搞文章+其他/2044 OI 代码规范.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15ebdeb2e3494457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
+                "file": "强连通分量 (SCC).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50324249267578
+    "width": 200.50324249267578,
+    "collapsed": true
   },
   "right": {
     "id": "7bdb6f5626f5a2ed",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "强连通分量 (SCC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "强连通分量 (SCC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "强连通分量 (SCC).md"
               }
             }
           },
@@ -178,10 +166,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "15ebdeb2e3494457",
+  "active": "d7d96b7bdbf67b18",
   "lastOpenFiles": [
+    "强连通分量 (SCC).md",
     "恶搞文章+其他/2044 OI 代码规范.md",
-    "未命名.md",
     "恶搞文章+其他/P1001 题解.md",
     "恶搞文章+其他/OI 野生错误汇总.md",
     "区间.md",
