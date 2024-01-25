@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "cssTheme": "Atom",
   "textFontFamily": "Fira Sans",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "Fira Sans"
 }

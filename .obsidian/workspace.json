@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强连通分量 (Strongly Connected) 总结.md",
+                "file": "强连通分量 (Strongly Connected Component) 总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "强连通分量 (Strongly Connected) 总结.md",
+                "file": "强连通分量 (Strongly Connected Component) 总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "强连通分量 (Strongly Connected) 总结.md",
+                "file": "强连通分量 (Strongly Connected Component) 总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "强连通分量 (Strongly Connected) 总结.md"
+                "file": "强连通分量 (Strongly Connected Component) 总结.md"
               }
             }
           },
@@ -167,7 +167,7 @@
   },
   "active": "d7d96b7bdbf67b18",
   "lastOpenFiles": [
-    "强连通分量 (Strongly Connected) 总结.md",
+    "强连通分量 (Strongly Connected Component) 总结.md",
     "恶搞文章+其他/2044 OI 代码规范.md",
     "恶搞文章+其他/P1001 题解.md",
     "恶搞文章+其他/OI 野生错误汇总.md",
