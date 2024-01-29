@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "549e4f59bf818191",
+        "id": "2f436f6cb514b9dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d96b7bdbf67b18",
+            "id": "bee8cb0eb47cc1d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强连通分量 (Strongly Connected Component) 三种算法总结.md",
+                "file": "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21608955fceea3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UVA12068 Harmonic Mean 题解.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#图论",
+                "query": "子集",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50324249267578,
-    "collapsed": true
+    "width": 200.50324249267578
   },
   "right": {
     "id": "7bdb6f5626f5a2ed",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "强连通分量 (Strongly Connected Component) 三种算法总结.md",
+                "file": "UVA12068 Harmonic Mean 题解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "强连通分量 (Strongly Connected Component) 三种算法总结.md",
+                "file": "UVA12068 Harmonic Mean 题解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "强连通分量 (Strongly Connected Component) 三种算法总结.md"
+                "file": "UVA12068 Harmonic Mean 题解.md"
               }
             }
           },
@@ -166,9 +178,11 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "d7d96b7bdbf67b18",
+  "active": "21608955fceea3c7",
   "lastOpenFiles": [
-    "强连通分量 (Strongly Connected Component) 三种算法总结.md",
+    "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
+    "UVA12068 Harmonic Mean 题解.md",
+    "算法笔记/强连通分量 (Strongly Connected Component) 三种算法总结.md",
     "恶搞文章+其他/2044 OI 代码规范.md",
     "恶搞文章+其他/P1001 题解.md",
     "恶搞文章+其他/OI 野生错误汇总.md",
@@ -192,8 +206,6 @@
     "题解/SP31221 题解.md",
     "题解/P7191 题解.md",
     "题解/Leetcode 1162 地图分析题解.md",
-    "题解/CF1862C 题解.md",
-    "题解/CF1593D1 题解.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
