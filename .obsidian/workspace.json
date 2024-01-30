@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2f436f6cb514b9dc",
+        "id": "d8f7791b514dc368",
         "type": "tabs",
         "children": [
           {
-            "id": "bee8cb0eb47cc1d1",
+            "id": "b792245cb82fa4e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21608955fceea3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UVA12068 Harmonic Mean 题解.md",
+                "file": "P4913 题解.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "子集",
+                "query": "tag:#数论",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UVA12068 Harmonic Mean 题解.md",
+                "file": "P4913 题解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UVA12068 Harmonic Mean 题解.md",
+                "file": "P4913 题解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UVA12068 Harmonic Mean 题解.md"
+                "file": "P4913 题解.md"
               }
             }
           },
@@ -178,10 +165,15 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "21608955fceea3c7",
+  "active": "b792245cb82fa4e0",
   "lastOpenFiles": [
+    "P4913 题解.md",
+    "题解/UVA11892 题解.md",
+    "题解/CF1915E 题解.md",
+    "未命名.canvas",
+    "2024-01-29.md",
+    "题解/UVA12068 Harmonic Mean 题解.md",
     "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
-    "UVA12068 Harmonic Mean 题解.md",
     "算法笔记/强连通分量 (Strongly Connected Component) 三种算法总结.md",
     "恶搞文章+其他/2044 OI 代码规范.md",
     "恶搞文章+其他/P1001 题解.md",
@@ -193,7 +185,6 @@
     "恶搞文章+其他/关于我.md",
     "题解/AT_abc328_c 题解.md",
     "恶搞文章+其他/【数学整活】用微积分计算奶茶杯体积.md",
-    "题解/UVA11892 题解.md",
     "题解/CF1881D Divide and Equalize 题解.md",
     "题解/CF1881C Perfect Square 题解.md",
     "恶搞文章+其他/暑假总结.md",
@@ -203,9 +194,6 @@
     "游记+生活随记/2023年暑假培训机构集训营游记.md",
     "Calculus.md",
     "算法笔记/RSA 加密算法.md",
-    "题解/SP31221 题解.md",
-    "题解/P7191 题解.md",
-    "题解/Leetcode 1162 地图分析题解.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
