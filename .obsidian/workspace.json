@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "387dcbecf886da6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "缩点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/P4913 题解.md",
+                "file": "缩点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/P4913 题解.md",
+                "file": "缩点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/P4913 题解.md"
+                "file": "缩点.md"
               }
             }
           },
@@ -165,9 +178,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e6296dfee972d7dc",
+  "active": "387dcbecf886da6d",
   "lastOpenFiles": [
     "题解/P4913 题解.md",
+    "缩点.md",
     "题解/UVA11892 题解.md",
     "题解/CF1915E 题解.md",
     "未命名.canvas",
@@ -193,7 +207,6 @@
     "题解/ABC105D 题解.md",
     "游记+生活随记/2023年暑假培训机构集训营游记.md",
     "Calculus.md",
-    "算法笔记/RSA 加密算法.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
