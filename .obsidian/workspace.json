@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "缩点总结.md",
+                "file": "缩点总结（Writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "缩点总结.md",
+                "file": "缩点总结（Writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "缩点总结.md",
+                "file": "缩点总结（Writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "缩点总结.md"
+                "file": "缩点总结（Writing).md"
               }
             }
           },
@@ -169,7 +169,7 @@
   "lastOpenFiles": [
     "浩强 C++ 考试试卷系列第一集.md",
     "题解/P4913 题解.md",
-    "缩点总结.md",
+    "缩点总结（Writing).md",
     "题解/UVA11892 题解.md",
     "题解/CF1915E 题解.md",
     "未命名.canvas",
