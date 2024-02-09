@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "各种 bug + 解决方案/manim 数学公式如何支持中文.md",
+                "file": "算法笔记/RSA 加密算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "各种 bug + 解决方案/manim 数学公式如何支持中文.md",
+                "file": "算法笔记/RSA 加密算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "各种 bug + 解决方案/manim 数学公式如何支持中文.md"
+                "file": "算法笔记/RSA 加密算法.md"
               }
             }
           },
