@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "春节旅游计划.md",
+                "file": "娱乐/2024 春节旅游计划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a708aa96a5b9b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "春节旅游计划.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "春节旅游计划.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "春节旅游计划.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -165,9 +178,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "24312072c4ef27be",
+  "active": "7a708aa96a5b9b03",
   "lastOpenFiles": [
-    "春节旅游计划.md",
+    "娱乐/2024 春节旅游计划.md",
+    "未命名.md",
     "各种 bug + 解决方案/manim 数学公式如何支持中文.md",
     "算法笔记/RSA 加密算法.md",
     "娱乐",
@@ -195,7 +209,6 @@
     "题解/CF1881D Divide and Equalize 题解.md",
     "题解/CF1881C Perfect Square 题解.md",
     "恶搞文章+其他/暑假总结.md",
-    "游记+生活随记/CSP-J 2023 游记.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
