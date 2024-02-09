@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff226e345fe3c9c",
+        "id": "f1d2f9c5d404607b",
         "type": "tabs",
         "children": [
           {
-            "id": "f334e398ccee8674",
+            "id": "24312072c4ef27be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/RSA 加密算法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1a78e1608837d77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "各种 bug + 解决方案/manim 数学公式如何支持中文.md",
+                "file": "春节旅游计划.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/RSA 加密算法.md",
+                "file": "春节旅游计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/RSA 加密算法.md",
+                "file": "春节旅游计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法笔记/RSA 加密算法.md"
+                "file": "春节旅游计划.md"
               }
             }
           },
@@ -178,10 +165,12 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e6296dfee972d7dc",
+  "active": "24312072c4ef27be",
   "lastOpenFiles": [
-    "算法笔记/RSA 加密算法.md",
+    "春节旅游计划.md",
     "各种 bug + 解决方案/manim 数学公式如何支持中文.md",
+    "算法笔记/RSA 加密算法.md",
+    "娱乐",
     "各种 bug + 解决方案",
     "算法笔记/强连通分量 (Strongly Connected Component) 三种算法总结.md",
     "算法笔记/最短路总结.md",
@@ -207,7 +196,6 @@
     "题解/CF1881C Perfect Square 题解.md",
     "恶搞文章+其他/暑假总结.md",
     "游记+生活随记/CSP-J 2023 游记.md",
-    "题解/55. 跳跃游戏题解.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
