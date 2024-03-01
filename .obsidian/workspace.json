@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d2f9c5d404607b",
+        "id": "171a1ffd420f70c0",
         "type": "tabs",
         "children": [
           {
-            "id": "24312072c4ef27be",
+            "id": "aea443315ac02a51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "娱乐/2024 春节旅游计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a708aa96a5b9b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 年，我想和这个世界聊聊.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 年，我想和这个世界聊聊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 年，我想和这个世界聊聊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 年，我想和这个世界聊聊.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +157,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "7a708aa96a5b9b03",
+  "active": "aea443315ac02a51",
   "lastOpenFiles": [
     "娱乐/2024 春节旅游计划.md",
     "2024 年，我想和这个世界聊聊.md",
