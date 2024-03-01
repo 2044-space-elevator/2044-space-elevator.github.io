@@ -11,8 +11,12 @@
             "id": "aea443315ac02a51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50324249267578
+    "width": 200.50324249267578,
+    "collapsed": true
   },
   "right": {
     "id": "7bdb6f5626f5a2ed",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md"
+              }
             }
           },
           {
@@ -138,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +169,9 @@
   },
   "active": "aea443315ac02a51",
   "lastOpenFiles": [
+    "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
     "娱乐/2024 春节旅游计划.md",
-    "2024 年，我想和这个世界聊聊.md",
+    "游记+生活随记/2024 年，我想和这个世界聊聊.md",
     "各种 bug + 解决方案/manim 数学公式如何支持中文.md",
     "算法笔记/RSA 加密算法.md",
     "娱乐",
@@ -187,7 +198,6 @@
     "恶搞文章+其他/【数学整活】用微积分计算奶茶杯体积.md",
     "题解/CF1881D Divide and Equalize 题解.md",
     "题解/CF1881C Perfect Square 题解.md",
-    "恶搞文章+其他/暑假总结.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
