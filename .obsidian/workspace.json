@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#数论",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200.50324249267578,
-    "collapsed": true
+    "width": 200.50324249267578
   },
   "right": {
     "id": "7bdb6f5626f5a2ed",
@@ -167,8 +167,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "aea443315ac02a51",
+  "active": "28e54e55af2ae9ac",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-02 16.44.45.excalidraw.md",
     "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
     "娱乐/2024 春节旅游计划.md",
     "游记+生活随记/2024 年，我想和这个世界聊聊.md",
@@ -197,7 +198,6 @@
     "题解/AT_abc328_c 题解.md",
     "恶搞文章+其他/【数学整活】用微积分计算奶茶杯体积.md",
     "题解/CF1881D Divide and Equalize 题解.md",
-    "题解/CF1881C Perfect Square 题解.md",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
     "00B16A65.png",
