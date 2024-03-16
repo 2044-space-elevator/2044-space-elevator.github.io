@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed4a5491b896660a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "今日备忘录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "今日备忘录.md",
+                "file": "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "今日备忘录.md",
+                "file": "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "今日备忘录.md"
+                "file": "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md"
               }
             }
           },
@@ -179,11 +166,11 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "ed4a5491b896660a",
+  "active": "e6296dfee972d7dc",
   "lastOpenFiles": [
+    "今日备忘录.md",
     "Pasted image 20240305134405.png",
     "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
-    "今日备忘录.md",
     "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
     "assert/Pasted image 20240302165713.png",
     "Excalidraw/哈夫曼树 WPL 示意图.md",
@@ -225,7 +212,6 @@
     "0045EFA0.png",
     "(2023年8月暑假集训营笔记)程序设计基础知识",
     "游记+生活随记",
-    "ClassIn_20230812111021.jpeg",
     "算法笔记",
     "题解",
     "恶搞文章+其他"
