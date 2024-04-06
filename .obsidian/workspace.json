@@ -46,9 +46,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "451f1b30263e68dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "38f75ff224b0a373",
+  "active": "451f1b30263e68dc",
   "lastOpenFiles": [
     "assert/Pasted image 20240316191227.png",
     "树的重心.md",
