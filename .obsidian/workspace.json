@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +165,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "7450d334de59a16f",
+  "active": "e6296dfee972d7dc",
   "lastOpenFiles": [
     "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
     "算法笔记/拓扑排序.md",

@@ -3,7 +3,7 @@
   "baseFontSize": 17,
   "theme": "obsidian",
   "cssTheme": "Atom",
-  "textFontFamily": "Fira Sans",
+  "textFontFamily": "Times New Roman,Fira Sans,宋体,楷体,仿宋,Ink Free",
   "monospaceFontFamily": "Consolas,Source Code Pro",
   "interfaceFontFamily": "Fira Sans"
 }
