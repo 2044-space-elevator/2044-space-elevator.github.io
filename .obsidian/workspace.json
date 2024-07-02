@@ -11,8 +11,12 @@
             "id": "7450d334de59a16f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md"
+              }
             }
           },
           {
