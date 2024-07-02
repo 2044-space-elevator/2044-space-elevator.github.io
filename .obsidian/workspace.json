@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f98b13b42d63924f",
+        "id": "0a9c20e92e9fcd55",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4e03a58df3ae5e",
+            "id": "7450d334de59a16f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P10571 三七二十一.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b90884376b480b5a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "冒泡",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -80,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50324249267578,
-    "collapsed": true
+    "width": 200.50324249267578
   },
   "right": {
     "id": "7bdb6f5626f5a2ed",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P10571 三七二十一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P10571 三七二十一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "P10571 三七二十一.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,19 +157,25 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b90884376b480b5a",
+  "active": "7450d334de59a16f",
   "lastOpenFiles": [
-    "P10571 三七二十一.md",
+    "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
+    "算法笔记/拓扑排序.md",
+    "算法笔记/最短路总结.md",
+    "算法笔记/浩强 C++ 考试试卷系列第一集.md",
+    "算法笔记/2020 CSP-J 初赛试卷讲解笔记.md",
+    "算法笔记/(2023年8月暑假集训营 Day 4 笔记) 动态规划入门.md",
+    "算法笔记/(2023年8月暑假集训营 Day 3 笔记) 数论入门.md",
+    "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
+    "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
+    "题解/P10571 三七二十一.md",
     "算法笔记/树的直径.md",
     "算法笔记/树的重心.md",
-    "算法笔记/拓扑排序.md",
     "Excalidraw/拓扑排序示例.md",
     "Excalidraw/一个不可能有拓扑排序的图.md",
     "Excalidraw/未命名 1.md",
     "Excalidraw/Drawing 2024-05-18 19.01.56.excalidraw.png",
     "Excalidraw/未命名.md",
-    "算法笔记/最短路总结.md",
-    "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
     "assert/Pasted image 20240316191227.png",
     "游记+生活随记/《沙丘2》影评.md",
     "1F749D9A.png",
@@ -201,7 +186,6 @@
     "Pasted image 20240305134405.png",
     "娱乐/2024 春节旅游计划.md",
     "今日备忘录.md",
-    "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
     "assert/Pasted image 20240302165713.png",
     "Excalidraw/哈夫曼树 WPL 示意图.md",
     "assert",
@@ -209,13 +193,8 @@
     "Excalidraw/Drawing 2024-03-02 16.44.45.excalidraw.md",
     "Excalidraw/Drawing 2024-03-02 16.53.59.excalidraw.md",
     "Excalidraw/Drawing 2024-03-02 16.47.15.excalidraw.md",
-    "各种 bug + 解决方案/manim 数学公式如何支持中文.md",
-    "算法笔记/RSA 加密算法.md",
     "娱乐",
     "各种 bug + 解决方案",
-    "算法笔记/强连通分量 (Strongly Connected Component) 三种算法总结.md",
-    "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
-    "题解/缩点总结 + P3387 题解.md",
     "未命名.canvas",
     "2489FFE6.png",
     "Pasted image 20230924182352.png",
