@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b90884376b480b5a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "ab4e03a58df3ae5e",
+  "active": "b90884376b480b5a",
   "lastOpenFiles": [
     "P10571 三七二十一.md",
     "算法笔记/树的直径.md",
