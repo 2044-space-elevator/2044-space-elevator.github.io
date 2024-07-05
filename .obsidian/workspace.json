@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UVA1660 题解.md",
+                "file": "题解/UVA1660 题解.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,26 @@
             "id": "3a53832e3352f77a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "题解/UVA1660 题解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b075e8d5451a031",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UVA1660 题解.md",
+                "file": "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UVA1660 题解.md",
+                "file": "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UVA1660 题解.md"
+                "file": "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.md"
               }
             }
           },
@@ -188,10 +200,13 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "3a53832e3352f77a",
+  "active": "0b075e8d5451a031",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.png",
+    "题解/UVA1660 题解.md",
+    "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.md",
+    "题解/UVA11892 题解.md",
     "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
-    "UVA1660 题解.md",
     "算法笔记/拓扑排序.md",
     "算法笔记/最短路总结.md",
     "算法笔记/浩强 C++ 考试试卷系列第一集.md",
@@ -219,11 +234,8 @@
     "娱乐/2024 春节旅游计划.md",
     "今日备忘录.md",
     "assert/Pasted image 20240302165713.png",
-    "Excalidraw/哈夫曼树 WPL 示意图.md",
     "assert",
     "Pasted image 20240302165435.png",
-    "Excalidraw/Drawing 2024-03-02 16.44.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-02 16.53.59.excalidraw.md",
     "娱乐",
     "各种 bug + 解决方案",
     "未命名.canvas",
