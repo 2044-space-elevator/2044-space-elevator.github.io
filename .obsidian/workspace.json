@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17ecc71db177ace7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UVA1660 题解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a53832e3352f77a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
+                "file": "UVA1660 题解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
+                "file": "UVA1660 题解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md"
+                "file": "UVA1660 题解.md"
               }
             }
           },
@@ -165,9 +188,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e6296dfee972d7dc",
+  "active": "3a53832e3352f77a",
   "lastOpenFiles": [
     "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
+    "UVA1660 题解.md",
     "算法笔记/拓扑排序.md",
     "算法笔记/最短路总结.md",
     "算法笔记/浩强 C++ 考试试卷系列第一集.md",
@@ -200,7 +224,6 @@
     "Pasted image 20240302165435.png",
     "Excalidraw/Drawing 2024-03-02 16.44.45.excalidraw.md",
     "Excalidraw/Drawing 2024-03-02 16.53.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-02 16.47.15.excalidraw.md",
     "娱乐",
     "各种 bug + 解决方案",
     "未命名.canvas",
