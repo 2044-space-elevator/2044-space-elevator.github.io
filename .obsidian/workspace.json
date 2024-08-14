@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "957700ed264337b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "187ea0dc945d892e",
+  "active": "957700ed264337b0",
   "lastOpenFiles": [
     "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
     "题解/UVA11029 题解.md",
