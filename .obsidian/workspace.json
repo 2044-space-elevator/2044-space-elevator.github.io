@@ -28,9 +28,21 @@
                 "currentVersion": "1.6.7"
               }
             }
+          },
+          {
+            "id": "d2faa9bdee7807b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "题解：SP24689 POWFIB - Fibo and non fibo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/UVA11029 题解.md",
+                "file": "题解：SP24689 POWFIB - Fibo and non fibo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/UVA11029 题解.md",
+                "file": "题解：SP24689 POWFIB - Fibo and non fibo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/UVA11029 题解.md"
+                "file": "题解：SP24689 POWFIB - Fibo and non fibo.md"
               }
             }
           },
@@ -176,8 +188,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "957700ed264337b0",
+  "active": "d2faa9bdee7807b7",
   "lastOpenFiles": [
+    "题解：SP24689 POWFIB - Fibo and non fibo.md",
     "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
     "题解/UVA11029 题解.md",
     "算法笔记/抽象的模拟退火算法（Simulated Annealing，SA）学习笔记.md",
@@ -209,7 +222,6 @@
     "游记+生活随记/2023年暑假培训机构集训营游记.md",
     "assert/Pasted image 20240316181207.png",
     "Pasted image 20240305134405.png",
-    "娱乐/2024 春节旅游计划.md",
     "assert/Pasted image 20240302165713.png",
     "assert",
     "Pasted image 20240302165435.png",
