@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "斐波那契",
+                "query": "主定理",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/题解：UVA10310 Dog and Gopher.md",
+                "file": "题解/UVA11029 题解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/题解：UVA10310 Dog and Gopher.md",
+                "file": "题解/UVA11029 题解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/题解：UVA10310 Dog and Gopher.md"
+                "file": "题解/UVA11029 题解.md"
               }
             }
           },
@@ -200,7 +201,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e6296dfee972d7dc",
+  "active": "28e54e55af2ae9ac",
   "lastOpenFiles": [
     "题解/题解：SP24689 POWFIB - Fibo and non fibo.md",
     "题解/题解：UVA10310 Dog and Gopher.md",
