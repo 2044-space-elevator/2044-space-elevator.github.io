@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题解/题解：UVA10310 Dog and Gopher.md",
+                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题解/UVA11029 题解.md",
+                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题解/UVA11029 题解.md",
+                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题解/UVA11029 题解.md"
+                "file": "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md"
               }
             }
           },
@@ -201,12 +201,12 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "28e54e55af2ae9ac",
+  "active": "89d1aa2e861dd91f",
   "lastOpenFiles": [
+    "题解/UVA11029 题解.md",
     "题解/题解：SP24689 POWFIB - Fibo and non fibo.md",
     "题解/题解：UVA10310 Dog and Gopher.md",
     "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
-    "题解/UVA11029 题解.md",
     "算法笔记/抽象的模拟退火算法（Simulated Annealing，SA）学习笔记.md",
     "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.md",
     "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.png",
