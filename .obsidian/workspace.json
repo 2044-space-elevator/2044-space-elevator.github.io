@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "主定理",
+                "query": "lowbit",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +201,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "89d1aa2e861dd91f",
+  "active": "28e54e55af2ae9ac",
   "lastOpenFiles": [
     "题解/UVA11029 题解.md",
     "题解/题解：SP24689 POWFIB - Fibo and non fibo.md",
