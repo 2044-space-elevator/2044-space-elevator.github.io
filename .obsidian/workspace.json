@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lowbit",
+                "query": "主定理",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,12 +201,13 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "28e54e55af2ae9ac",
+  "active": "89d1aa2e861dd91f",
   "lastOpenFiles": [
+    "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
+    "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
     "题解/UVA11029 题解.md",
     "题解/题解：SP24689 POWFIB - Fibo and non fibo.md",
     "题解/题解：UVA10310 Dog and Gopher.md",
-    "算法笔记/(2023年8月暑假集训营 Day 1 笔记)程序设计基础知识（一）.md",
     "算法笔记/抽象的模拟退火算法（Simulated Annealing，SA）学习笔记.md",
     "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.md",
     "Excalidraw/Drawing 2024-07-05 19.34.24.excalidraw.png",
@@ -218,7 +219,6 @@
     "算法笔记/2020 CSP-J 初赛试卷讲解笔记.md",
     "算法笔记/(2023年8月暑假集训营 Day 4 笔记) 动态规划入门.md",
     "算法笔记/(2023年8月暑假集训营 Day 3 笔记) 数论入门.md",
-    "算法笔记/(2023年8月暑假集训营 Day 2 笔记)程序设计基础知识（二）.md",
     "大偶数表为一个素数及一个不超过两个素数的乘积之和原文摘抄.md",
     "题解/P10571 三七二十一.md",
     "算法笔记/树的直径.md",
